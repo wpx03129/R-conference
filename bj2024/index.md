@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 第16届中国R会议暨2023 X-AGI大会
-location: bj2023
+title: 第17届中国R会议 & 2024 X-智能大会 & 2024数据科学国际论坛联合会议
+location: bj2024
 
 ---
 
